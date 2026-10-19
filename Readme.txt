@@ -1,2 +1,2 @@
-# My Portfolio
-[Portfolio](https://irishiraj.github.io/portfolio/)
+# It's me...
+[Portfolio](https://irishiraj.github.io/)
